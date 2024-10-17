@@ -2,10 +2,10 @@
 <html lang="fr">
 <head>
     <meta charset="utf-8">
-    <title>Timer</title> <!-- Correction du tag title -->
-    <link href="https://fonts.googleapis.com/css?family=Aldrich" rel="stylesheet"> <!-- Correction de l'URL -->
-    <link rel="stylesheet" href="assets/css/style.css"> <!-- Correction du chemin du fichier CSS -->
-    <script src="assets/js/script.js"></script> <!-- Correction du chemin du fichier JS -->
+    <title>Timer</title> 
+    <link href="https://fonts.googleapis.com/css?family=Aldrich" rel="stylesheet"> 
+    <link rel="stylesheet" href="assets/css/style.css"> 
+    <script src="assets/js/script.js"></script> 
 </head>
 <body>
     <div id="wrapper">
