@@ -5,17 +5,17 @@ font-family: "Aldrich";
 font-size: 12px;
 height:100%;
 color: #F0F1D5;
-background-color: transpent;
+background-color: transparent ; /*Correction de transpent*/
 }
-#wrappr{
+#wrapper{ /* correction du nom de l'ID qui etait wrpper*/
 display:flex;
 justify-content:center;
 align-items:center;
 height: 100%;
 }
-.inside
+.inside{/*ajout d'une accolade*/
 font-weight: bold;
-font-size: 75px;;
+font-size: 75px;/*il y avait un point-virgule en trop*/
 }
 .timer span::after{
 content: " : ";
